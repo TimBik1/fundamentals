@@ -1,0 +1,12 @@
+{
+    "tasks": {
+      "start": "deno run --allow-net --allow-read src/main.js"
+    },
+    "fmt": {
+      "options": {
+        "lineWidth": 80,
+        "indentWidth": 2
+      }
+    }
+  }
+  
